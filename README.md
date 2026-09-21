@@ -24,10 +24,10 @@ Se require un análisis de la operación comercial para implementar mejoras, el 
 
 
 ## Diagrama Entidad-Relación
-![ERD](imagenes/ERD-capstone_project.png)
+![ERD](https://github.com/Lighthub9/EntregablesSQL/imagenes/ERD-capstone_project.png)
 
 ### Esquema
-![Esquema](imagenes/Capstone_project-Modelo.png)
+![Esquema](https://github.com/Lighthub9/EntregablesSQL/imagenes/Capstone_project-Modelo.png)
 
 
 ## Limpieza y desempeño de la base de datos
@@ -162,10 +162,10 @@ Pasos.
 1. Conectarse a **`postgres`**.
 2. Abrir el archivo **`estructura.sql`**.
 3. Dar click en el boton **`Ejecutar Script SQL`**. 
-![Boton](imagenes/Boton_ejecutar_script.jpg)
+![Boton](https://github.com/Lighthub9/EntregablesSQL/imagenes/Boton_ejecutar_script.jpg)
 4. Si aparece una ventana para confirmar la ejecución de la instrucción, presionar **`Aceptar`**.
 5. Dar click derecho en la base de datos **"postgres"** y presionar **`Renovar`** para visualizar **capstone_project**.  
-![Refresh](imagenes/Refresh.jpg)
+![Refresh](https://github.com/Lighthub9/EntregablesSQL/imagenes/Refresh.jpg)
 6. Abrir el archivo **`analisis.sql`**.
 7. Dar click en el boton **`Ejecutar Script SQL`**.
 8. Leer los resultados generados de cada consulta junto con el análisis que explica el propósito de negocio.
